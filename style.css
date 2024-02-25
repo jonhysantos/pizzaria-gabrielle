@@ -226,6 +226,7 @@ h2{
 }
 
 .itens-cardapio h3 span{
+    color: white;
     margin-left: 10px;
     background-color: red;
     filter: drop-shadow(0 0 2em #ff0000);
@@ -246,6 +247,7 @@ h2{
 }
 
 .itens-cardapio h3.rodape{
+    color: white;
     background-color: #ff0000;
     border-radius: 10px;
 }
