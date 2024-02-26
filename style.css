@@ -126,7 +126,11 @@ html{
     transition: all 400ms ease-in;
 }
 
-.btn button:hover{
+.btn button a {
+    color: black;
+}
+
+.btn button:hover a{
     border: 1px solid #ffc506;
     background-color: transparent;
     color: #ffc;
