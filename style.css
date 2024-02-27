@@ -484,7 +484,6 @@ footer{
         margin-left: 100px;
         display: flex;
         flex-direction: column;
-
         
     }
 
@@ -513,7 +512,7 @@ footer{
     }
 }
 
-@media(max-width: 590px){
+@media(max-width: 565px){
     .btn{
         flex-direction: column;
         justify-content: center;
